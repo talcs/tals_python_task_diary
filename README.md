@@ -16,6 +16,12 @@ The project was tested only with Python **3.5.1**. It may work on any **Python 3
   * Specify sub-tasks weight in percents, in terms of its parent task
 
 
+## Run command
+
+```
+pythonw taskDiary.py
+```
+
 ## Screenshots
 
 ![alt text](https://s23.postimg.org/xn221ri8b/td_sc.png Screenshot)
