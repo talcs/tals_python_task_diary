@@ -24,7 +24,7 @@ pythonw taskDiary.py
 
 ## Screenshots
 
-![alt text](https://s23.postimg.org/xn221ri8b/td_sc.png Screenshot)
+![alt text](/td_sc.png "Screenshot")
 
 
 ## Things You Need to Know as a User
